@@ -1,5 +1,5 @@
 <h1 align="center"> 
-AluraFlix ADD
+Alura Flix ADD
 </h1>
 
 <p align="center">
@@ -9,7 +9,7 @@ AluraFlix ADD
 <br>
 
 <p align="center">
-  <img src=".github/AluraFlix ADD.jpeg" width="100%">
+  <img src=".github/alura-flix-add.jpeg" width="100%">
 </p>
 
 <br>
